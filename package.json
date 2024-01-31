@@ -1,0 +1,19 @@
+{
+  "name": "@uniswap/utils",
+  "version": "0.0.0",
+  "license": "GPL",
+  "scripts": {
+    "test": "vitest",
+    "test:e2e": "true",
+    "test:integ": "true",
+    "typecheck": "tsc -noEmit"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gts": "^5.2.0",
+    "vitest": "^0.34.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
